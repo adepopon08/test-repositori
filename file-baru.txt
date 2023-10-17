@@ -1,2 +1,2 @@
 ini baris pertama
-ini baris kedua
+ini data baru ya
